@@ -1,1 +1,3 @@
-# jenkins
+# Jenkins stuff
+
+Groovy vs Declarative
